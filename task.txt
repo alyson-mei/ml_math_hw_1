@@ -1,0 +1,9 @@
+Enter your mail: khranilov.an@phystech.edu
+{'mail': 'khranilov.an@phystech.edu',
+ 'id': 3004501260,
+ 'type': 'regression',
+ 'dataset': {'name': 'Servo Data Set',
+  'url': 'https://archive.ics.uci.edu/ml/datasets/Servo'},
+ 'method': ['Перцептрон', 'Линейная регрессия', 'Надарая-Ватсона']}
+
+* ковариационная матрица
