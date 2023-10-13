@@ -5,5 +5,3 @@ Enter your mail: khranilov.an@phystech.edu
  'dataset': {'name': 'Servo Data Set',
   'url': 'https://archive.ics.uci.edu/ml/datasets/Servo'},
  'method': ['Перцептрон', 'Линейная регрессия', 'Надарая-Ватсона']}
-
-* ковариационная матрица
